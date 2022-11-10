@@ -59,6 +59,7 @@ class MemberServiceTest {
         //then
     }
 
+
     @Test
     void findOne() {
     }
