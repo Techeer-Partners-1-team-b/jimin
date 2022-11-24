@@ -16,7 +16,6 @@ import java.util.List;
 public class MemberController {
     private final MemberService memberService;
 
-
     @Autowired
     public MemberController(MemberService memberService)
     {
